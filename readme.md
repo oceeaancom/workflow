@@ -6,6 +6,6 @@
 Workflow
 </h1>
 <p align="center">
-An interactive approach to collect, design, develop ideas into something that will people consume like ocean current system that transport water around the world.
+An interactive approach to collect, design, develop ideas into something that people can consume like ocean current system that transport water around the world.
 <p>
 
